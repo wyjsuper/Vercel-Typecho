@@ -39,7 +39,7 @@ $db->addServer(array (
   'host' => 'mysql7.sqlpub.com',
   'user' => 'hkv179',
   'password' => '75GlN2NPapDkvdIO',
-  'charset' => 'utf8mb4',
+  'charset' => 'utf8',
   'port' => '3312',
   'database' => 'hkv179_f',
   'engine' => 'MyISAM',
